@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "axios": "^0.24.0"
-  }
+  },
+  "name": "api.coinmarketcap",
+  "description": "JS Api for coinmarketcap (BY default polygon-ecosystem: crypto) It displays the latest prices of coins accross polygon network.",
+  "version": "1.0.0",
+  "main": "ApiCoinMarketCap.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelooblan2016/api.coinmarketcap.git"
+  },
+  "author": "marx oblan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelooblan2016/api.coinmarketcap/issues"
+  },
+  "homepage": "https://github.com/marcelooblan2016/api.coinmarketcap#readme"
 }
