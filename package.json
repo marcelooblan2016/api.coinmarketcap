@@ -4,7 +4,7 @@
   },
   "name": "api.coinmarketcap",
   "description": "JS Api for coinmarketcap (BY default polygon-ecosystem: crypto) It displays the latest prices of coins accross polygon network.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "ApiCoinMarketCap.js",
   "devDependencies": {},
   "scripts": {
